@@ -77,13 +77,13 @@ html body .carousel-indicators {
   }
 
 html body #indi1{
-    bottom: 280px;
+    bottom: 174px;
     left: 150px;
 }
 
 html body #indi2{
-    top: 188px;
-    left: 125px;
+    left: -338px;
+    top: 462px;
 }
 
 
@@ -185,10 +185,10 @@ html body #tekst1{
 
 #tekst2{
     width: 765px;
-    margin-left: -433px;
+    margin-left: -472px;
     margin-top: -210px;
     padding: 10px;
-  }
+}
 
 #tekst3{
   text-align: center;
@@ -224,13 +224,6 @@ html body .flex-item2{
     margin-right: 800px;
 }
 
-#tekst01{
-    width: 855px;
-    height: 600px;
-    top: 100px;
-    padding: 10px;
-}
-
 #tekst4 {
     width: 840px;
     height: 600px;
@@ -252,6 +245,58 @@ html body .flex-item2{
     margin-top: 30px;
 }
 
+.containerhome {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    z-index: 3;
+    margin: 0 auto;
+    padding-top: 40px;
+
+}
+
+html body .flex-item5{
+    width: 389px;
+    height: 388px;
+    margin-top: -28px;
+    margin-left: -254px;
+  }
+
+html body .flex-item6{
+    width: 325px;
+    height: 300px;
+    margin-top: -388px;
+    margin-left: 182px;
+
+}
+
+.containerjobs{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    z-index: 3;
+    margin: 0 auto;
+    padding-top: 40px;
+
+}
+
+html body .flex-item7{
+    width: 417px;
+    height: 388px;
+    margin-top: -260px;
+    margin-left: -277px;
+}
+
+html body .flex-item8{
+  width: 472px;
+    height: 300px;
+    margin-top: -388px;
+    margin-left: 219px;
+}
 html body .carousel-inner {
     position: relative;
     width: 118%;
@@ -260,14 +305,14 @@ html body .carousel-inner {
 
 html body #inner1{
     left: 350px;
-    bottom: 685px;
+    bottom: 576px;
 }
 
 
 html body #inner2{
-    bottom: 86px;
-    left: -43px;
-;
+    top: 191px;
+    right: 519px;
+
   }
 
  html body #carousel22 {
